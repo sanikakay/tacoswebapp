@@ -3,9 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-DATAURL = (
-	"/just tacos and burritos.csv"
-	)
+DATAURL = "just tacos and burritos.csv"
 
 st.title("Tacos and Burrito Places in USA")
 st.markdown("This is a Streamlit Web App that can be used to look at taco and burrito places in USA.")
