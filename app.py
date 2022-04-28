@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 
 DATAURL = (
-	""
+	"/just tacos and burritos.csv"
 	)
 
 st.title("Tacos and Burrito Places in USA")
